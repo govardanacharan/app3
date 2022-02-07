@@ -1,3 +1,5 @@
+![Screenshot 2022-02-07 114423](https://user-images.githubusercontent.com/95639773/152736215-d32a8d7d-78eb-4f0d-b4b1-643609c7bcaf.png)
+![Screenshot 2022-02-07 114423](https://user-images.githubusercontent.com/95639773/152736291-051d1796-d802-4db9-94ff-076644e73963.png)
 import React from 'react';
 import { useState } from 'react';
 import { StyleSheet, Text, View,SafeAreaView ,ImageBackground,Image,TouchableOpacity,Button} from 'react-native';
